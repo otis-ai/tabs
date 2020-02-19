@@ -4,9 +4,6 @@
     "paths": {
       "react-navigation-tabs": ["./src/index"]
     },
-    "exclude": [
-      "example"
-    ],
     "allowUnreachableCode": false,
     "allowUnusedLabels": false,
     "esModuleInterop": true,
@@ -25,5 +22,8 @@
     "skipLibCheck": true,
     "strict": true,
     "target": "esnext"
-  }
+  },
+  "exclude": [
+    "example"
+  ],
 }
