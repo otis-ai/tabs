@@ -8,8 +8,7 @@
   "types": "lib/typescript/src/index.d.ts",
   "files": [
     "src",
-    "lib",
-    "example"
+    "lib"
   ],
   "scripts": {
     "test": "jest",
@@ -36,7 +35,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/react-navigation/tabs.git"
+    "url": "git+https://github.com/otis-ai/tabs.git"
   },
   "author": "Satyajit Sahoo <satyajit.happy@gmail.com> (https://github.com/satya164/)",
   "license": "MIT",
