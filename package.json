@@ -8,7 +8,8 @@
   "types": "lib/typescript/src/index.d.ts",
   "files": [
     "src",
-    "lib"
+    "lib",
+    "example"
   ],
   "scripts": {
     "test": "jest",
